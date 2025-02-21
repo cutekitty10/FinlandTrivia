@@ -74,7 +74,7 @@ def quiz():
         ("11. What is the northernmost region of Finland called?", ["Lapland"]),
         ("12. What is the Finnish word for ‘hello’?", ["Moi", "Hei"]),
         ("13. What colors are in the Finnish flag?", ["White and blue", "Blue and white", "White blue", "Blue white", "White, blue", "Blue, white"]),
-        ("14. nWhen did Finland get independence?", ["1917"]),
+        ("14. When did Finland get independence?", ["1917"]),
         ("15. What was Finland's first capital city?", ["Turku"]),
         ("16. Which Finnish composer wrote ‘Finlandia’?", ["Jean Sibelius", "Sibelius", "Jean"]),
         ("17. What is the most popular sport in Finland?", ["Ice hockey", "Icehockey"]),
